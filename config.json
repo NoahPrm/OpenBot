@@ -1,4 +1,8 @@
 {
   "token": "BOT_TOKEN",
-  "prefix": "?"
+  "prefix": "!",
+  "language": "fr / FR / en / EN",
+  "channels": {
+    "logs": "logsChannel_Id"
+  }
 }
